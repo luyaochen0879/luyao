@@ -1,3 +1,3 @@
 wrk.method = "POST"
 wrk.headers["Content-Type"] = "application/json"
-wrk.headers["Cookie"] = "SPC_EC=XOop9aZdfglHVhUx+pxqnKqGp35K5iN214PY+dgxEKSwboWooh+WZwJkwbj0XhP9bhc+BV0Rngz2MjgwAU9/FJHa6W70+MIAnbCRfCauVbEEZHD/B03gKNSJQ/SVIx3MXdkLnvIUJjXM6RvxDk+i5g=="
+wrk.headers["Cookie"] = "SPC_EC=ArbEJcTjE0RnrekCvQ1iT9wZUKpHVtliwbiboiJ/mVCNR++3OUsP2EMkIRsZbZjQpgg+xXNqnnp7SVmwdVTtY4ntdNdE0X+v6D0uxrMAlrblkOVImrH4cWogLhjBExtJoI5Ivj2qdCyNGJ8/pItjeg=="
